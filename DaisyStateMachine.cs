@@ -1,5 +1,5 @@
 /*
- * Author - Chengyin, Ric
+ * Author - Chengyin
  * Description - 
  * 
  * Person to Contact - Chengyin

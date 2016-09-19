@@ -1,8 +1,8 @@
 /*
- * Author - Isaac, Chengyin, Ric
+ * Author - Chengyin
  * Description - Daisy following milo in platform world. 
  *  
- * Person to Contact - Chengyin, Ric
+ * Person to Contact - Chengyin
  * 
  * */
  
